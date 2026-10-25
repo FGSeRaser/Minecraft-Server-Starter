@@ -1,7 +1,9 @@
 ﻿# Minecraft Server Starter
 
 von **[FGSeRaser](https://github.com/FGSeRaser)**
-
+![Server](docs/preview_server.png)
+![Plugins](docs/preview_plugins.png)
+![Einstellungen](docs/preview_settings.png)
 Windows-Tool, um einen eigenen Minecraft-Server ohne Texteditor und Kommandozeile aufzusetzen und zu betreiben.
 
 ## Funktionen
